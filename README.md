@@ -1,10 +1,21 @@
 # git 指令
 
-Git|動作
+
+- clone/init
+
+Git|Do
+-|-
+git clone|複製
+git init|初始化
+
+
+- 基本更新(status/add/commit/pull/push)
+Git|Do
 -|-
 git status|查看狀態
 git add (file)|新增檔案
-git add .|新增所有
+git add .|新增所有檔案
+git commit -m "message"|
 
 
 
