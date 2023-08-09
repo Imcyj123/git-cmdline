@@ -1,5 +1,13 @@
 # git 指令
 
+Git|動作
+-|-
+git status|查看狀態
+git add (file)|新增檔案
+git add .|新增所有
+
+
+
 ### 遠端
 `$ git remote add origin <your url>`
 
