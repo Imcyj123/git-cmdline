@@ -11,7 +11,8 @@
 
 ### 錯誤訊息
 error: src refspec cyj does not match any
-### 新增Branch
+
+### 新增Branch(解決方法)
 `$ git checkout -b BranchName`
 - Switched to a new branch 'BranchName'
 
@@ -19,6 +20,7 @@ error: src refspec cyj does not match any
 
 #### 完成!!
 
+---
 
 ### 下載特定分支(Branch)
 
